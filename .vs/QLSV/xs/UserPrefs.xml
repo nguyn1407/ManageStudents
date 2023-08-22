@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{D77253B9-8644-4525-9C9D-1117ADB491A5}|Default">
+  <MonoDevelop.Ide.ItemProperties.QLSV PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QLSV/IServices/ISinhVienService.cs">
+    <Files>
+      <File FileName="QLSV/Controllers/SinhVienController.cs" Line="95" Column="10" />
+      <File FileName="QLSV/Services/SinhVienService.cs" Line="19" Column="47" />
+      <File FileName="QLSV/Paginations/PageResult.cs" Line="21" Column="2" />
+      <File FileName="QLSV/APIRespone.cs" Line="16" Column="2" />
+      <File FileName="QLSV/IServices/ISinhVienService.cs" Line="18" Column="1" />
+      <File FileName="QLSV/Paginations/Pagination.cs" Line="17" Column="1" />
+      <File FileName="QLSV/Paginations/PagingParameters.cs" Line="16" Column="22" />
+      <File FileName="QLSV/DTOs/SinhVienDTO.cs" Line="18" Column="9" />
+      <File FileName="QLSV/AutoMapperProfile.cs" Line="27" Column="3" />
+      <File FileName="QLSV/appsettings.json" Line="11" Column="22" />
+      <File FileName="QLSV/Models/AppdbContext.cs" Line="11" Column="55" />
+      <File FileName="QLSV/Program.cs" Line="30" Column="1" />
+      <File FileName="QLSV/Controllers/KhoaController.cs" Line="14" Column="6" />
+      <File FileName="QLSV/Controllers/WeatherForecastController.cs" Line="15" Column="1" />
+      <File FileName="QLSV/Models/SinhVien.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QLSV" expanded="True">
+            <Node name="QLSV" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTOs" expanded="True" />
+              <Node name="IServices" expanded="True">
+                <Node name="ISinhVienService.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Paginations" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
